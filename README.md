@@ -1,6 +1,6 @@
 # RefCrowdHuman
 
-有关数据集设计和构建的详细介绍，请参考我们的博客: [项目博客链接](https://your-blog-link.com)
+有关数据集设计和构建的详细介绍，请参考我们的博客: [项目博客链接](https://blog.csdn.net/weixin_74039195/article/details/149706359?fromshare)
 
 RefCrowdHuman 是基于 CrowdHuman 验证集，结合大模型自动生成细粒度人物描述的多模态数据集，面向密集人群目标定位与语言理解任务。
 
