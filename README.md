@@ -53,3 +53,31 @@ RefCrowdHuman is a multimodal dataset based on the CrowdHuman validation set, en
 2. For fine-tuning, directly use `data_train.jsonl`, `data_val.jsonl`, and `data_test.jsonl`.  
 
 3. Source code is in the `src/` directory, including scripts for data processing, conversion, and construction to facilitate reproduction or further development.
+
+## Data Sources
+
+- The base images are from the [CrowdHuman dataset](https://www.crowdhuman.org/).
+- Descriptions and bounding boxes are generated using the [Qwen2.5-VL-72B](https://huggingface.co/Qwen/Qwen-VL) API.
+
+If you use this dataset in your work, please consider citing the original data sources as well.
+
+---
+
+## License
+
+This dataset is licensed under the [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/).  
+Please cite the project or provide attribution when using the data.
+
+## Citation
+
+If you find this project useful, please consider citing it:
+
+```bibtex
+@misc{refcrowdhuman2025,
+  title={RefCrowdHuman: Fine-grained Referring Human Dataset based on CrowdHuman and LLM Descriptions},
+  author={Jerry200404 @ hlju},
+  year={2025},
+  url={https://github.com/Jerry200404/refcrowdhuman}
+}
+
+
