@@ -75,7 +75,7 @@ If you find this project useful, please consider citing it:
 ```bibtex
 @misc{refcrowdhuman2025,
   title={RefCrowdHuman: Fine-grained Referring Human Dataset based on CrowdHuman and LLM Descriptions},
-  author={Jerry200404 @ hlju},
+  author={Jerry200404 @hlju},
   year={2025},
   url={https://github.com/Jerry200404/refcrowdhuman}
 }
